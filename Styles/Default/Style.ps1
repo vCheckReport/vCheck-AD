@@ -144,7 +144,7 @@ $PluginHTML = @"
       <table width='100%' style='padding: 0px; border-collapse: collapse;'><tr><td style='background-color: #0078d7; border: 1px solid #0078d7; font-family: Segoe UI,Tahoma,Arial,sans-serif; font-weight: bold; font-size: 8pt; color: #FFFFFF; text-indent: 10px; height: 30px; vertical-align: middle;'>_TITLE_</td></tr>
          <tr><td style='margin: 0px; background-color: #ededed; color: #000000; font-style: italic; font-size: 8pt; height: 20px; text-indent: 10px; vertical-align: middle; border-right: 1px solid #bbbbbb; border-left: 1px solid #bbbbbb;'>_COMMENTS_</td></tr>
          <tr><td style='margin: 0px; padding: 0px; background-color: #ffffff; color: #000000; font-size: 8pt; border: #bbbbbb 1px solid;'>_PLUGINCONTENT_</td></tr>
-         <tr><td style="text-align: right; background: #FFFFFF"><a href="#top" style="color: black">Back To Top</a>
+         <tr><td style="text-align: right; background: #FFFFFF"><a href="#top" style="color: black">Back To Top</a></td></tr>
       </table>
    <!-- Plugin End -->
 "@
