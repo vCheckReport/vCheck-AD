@@ -5,7 +5,7 @@ $ShowTOC = $true
 $ToCColumns = 3
 # End of Settings
 
-$StyleVersion = 1.3
+$StyleVersion = 1.0
 
 # Define Chart Colours
 $ChartColours = @("377C2B", "0A77BA", "1D6325", "89CBE1")
