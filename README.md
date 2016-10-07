@@ -1,7 +1,7 @@
 <a name="Title">
 # vCheck Daily Report for Active Directory
 
-![Alt text](https://s3.amazonaws.com/vcheck/vCheck-AD_Screenshot.PNG "vCheck Sample")
+![Alt text](https://vcheck.report/samples/vCheck-AD_Screenshot.PNG "vCheck Sample")
 
 |Navigation|
 |-----------------|
@@ -46,4 +46,4 @@ The following items are included as part of the vCheck-AD download, they are inc
 [*Back to top*](#Title)
 For more information, see the vCheck-vSphere repository: https://github.com/alanrenouf/vCheck-vSphere
 
-For an example vSphere output (doesnt contain all info) [click here](https://s3.amazonaws.com/vcheck/vCheck-AD_Sample.html)
+For an example vSphere output (doesnt contain all info) [click here](https://vcheck.report/samples/vCheck-AD_Sample.html)
